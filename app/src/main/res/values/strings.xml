@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigatorDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="tabs">
+        <item>阅读</item>
+        <item>作者</item>
+        <item>活动</item>
+        <item>钛之选</item>
+        <item>更多</item>
+    </string-array>
+
+    <string name="load">上拉加载更多</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
