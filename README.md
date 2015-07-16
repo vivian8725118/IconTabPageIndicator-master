@@ -2,8 +2,8 @@
 
 带图标文字的底部导航栏，可配置显示的图标的大小，不担心再把文字顶出下面。
 
-![导航栏截图](screenshot/screenshot.png "导航栏截图")
-
+![导航栏截图](app/SwipeRefreshLayout.gif "导航栏截图")
+![导航栏截图](app/SwipeRefreshLayout2.gif "导航栏截图")
 ##安装
 
 先在根项目的build.gradle中添加此声明：
